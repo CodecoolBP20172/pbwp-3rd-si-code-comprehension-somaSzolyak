@@ -1,3 +1,5 @@
+# This is a number guess game.
+
 # searches the random module then binds it in the local (name)scope
 import random
 
